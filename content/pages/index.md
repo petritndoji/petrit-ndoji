@@ -748,7 +748,7 @@ sections:
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
-        showIcon: false
+        showIcon: true
         icon: mail
         iconPosition: right
         style: primary
