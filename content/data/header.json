@@ -69,7 +69,7 @@
             "url": "/",
             "icon": "",
             "iconPosition": "right",
-            "style": "secondary",
+            "style": "primary",
             "type": "Button",
             "showIcon": true
         }
