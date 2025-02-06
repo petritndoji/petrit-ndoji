@@ -749,5 +749,5 @@ seo:
   metaTags:
     - type: MetaTag
 type: PageLayout
-isDraft: true
+isDraft: false
 ---
