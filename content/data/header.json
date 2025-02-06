@@ -67,7 +67,7 @@
         {
             "label": "Log in",
             "url": "/",
-            "icon": "mail",
+            "icon": "",
             "iconPosition": "right",
             "style": "primary",
             "type": "Button",
