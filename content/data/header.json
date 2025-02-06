@@ -20,15 +20,6 @@
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
-                    "style": "primary",
-                    "type": "Link",
-                    "showIcon": false
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
                 },
