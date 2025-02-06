@@ -13,6 +13,11 @@ sections:
           - pl-12
           - pb-12
           - pr-12
+        margin:
+          - mt-5
+          - ml-5
+          - mb-5
+          - mr-5
   - type: GenericSection
     title:
       text: Unblock your team boost your time to production
